@@ -1,6 +1,6 @@
 # PandaLogica brand assets
 
-This repository is the single source for PandaLogica's official visual assets. The approved logo is [`logos/pandalogica-logo.png`](logos/pandalogica-logo.png). The image is a 1024 × 1024 PNG supplied by the owner, with a white background.
+This repository is the single source for PandaLogica's official visual assets. The approved logo is [`logos/pandalogica-logo.png`](logos/pandalogica-logo.png). The image is a 1024 × 1024 PNG supplied by the owner, with a transparent background.
 
 ## Structure
 
